@@ -23,5 +23,5 @@ i am highly motivated and passionate about Front end development.i have strong f
 
  ✨ What I Bring:
  
-  .Quick learning and problem  solving skills
+  .Quick learning and problem  solving      skills 
   .🚀 Always exited to learn,  build,and collaborate!Feel free to connect or explore my work here on GitHub!
