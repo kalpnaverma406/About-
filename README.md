@@ -21,7 +21,7 @@ i am highly motivated and passionate about Front end development.i have strong f
  .Languages:C++, python 
  
  .Frontend: HTML,CSS,javascript,
-  react.js,node.js,bootstrap 
+  react.js, tailwind css
   
  .Database: MongoDB,firebase
  
